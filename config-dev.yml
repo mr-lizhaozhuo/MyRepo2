@@ -15,3 +15,6 @@ eureka:
     service-url:
       defaultZone: http://localhost:7001/eureka
 version: 1      
+
+config:
+  info:"master branch,springcloud-config/config-dev.yml"
