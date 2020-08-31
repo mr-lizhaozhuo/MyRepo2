@@ -17,4 +17,4 @@ eureka:
 version: 1      
 
 config:
-  info:"master branch,springcloud-config/config-dev.yml"
+  info: "master branch,springcloud-config/config-dev.yml"
